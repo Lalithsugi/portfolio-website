@@ -100,22 +100,22 @@ export default function Home() {
             <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
               <h4 className="text-xl font-semibold text-green-600 dark:text-green-400">Data Validation Dashboard</h4>
               <p className="text-black">Built a dashboard using Power BI to validate data accuracy from automation testing, including interactive charts and reports.</p>
-            
+              <a href="#" className="text-blue-600 dark:text-blue-400 hover:underline">GitHub ↗</a>
             </div>
             <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
               <h4 className="text-xl font-semibold text-green-600 dark:text-green-400">MySQL Query Optimizer</h4>
               <p className="text-black">Developed a tool to optimize MySQL queries for better performance, with basic visualization of query execution times.</p>
-              
+              <a href="#" className="text-blue-600 dark:text-blue-400 hover:underline">GitHub ↗</a>
             </div>
           </div>
         </section>
         <section id="certifications" className="mb-10">
           <h3 className="text-3xl font-bold text-blue-600 dark:text-green-400 mb-6">Certifications</h3>
           <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
-            <p className="text-black">MS Excel — Coursera</p>
-            <p className="text-black">MySQL for Data Management — Great Learning</p>
-            <p className="text-black">Microsoft PowerBI — Udemy</p>
-            <p className="text-black">Data Analyst Masterclass — pantech.aisolutions</p>
+            <p className="text-black">MS Excel — Coursera <a href="https://coursera.org/verify/34L8LMP8N2TE" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">https://coursera.org/verify/34L8LMP8N2TE</a></p>
+            <p className="text-black">MySQL for Data Management — Great Learning <a href="https://mygreatlearning.com/QHLKOCGE" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">https://mygreatlearning.com/QHLKOCGE</a></p>
+            <p className="text-black">Microsoft PowerBI — Udemy <a href="https://www.udemy.com/certificate/UC-c6db2bd6-b2f6-4dc2-9343-ffaa8e5956ae/" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">https://www.udemy.com/certificate/UC-c6db2bd6-b2f6-4dc2-9343-ffaa8e5956ae/</a></p>
+            <p className="text-black">Data Analyst Masterclass — pantech.aisolutions <a href="https://my-certificates.com/certificates/688f6a8aa828fdf90eabf558" target="_blank" rel="noopener noreferrer" className="text-blue-600 dark:text-blue-400 hover:underline">https://my-certificates.com/certificates/688f6a8aa828fdf90eabf558</a></p>
           </div>
         </section>
         <section id="languages" className="mb-10">
