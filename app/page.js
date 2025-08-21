@@ -100,12 +100,10 @@ export default function Home() {
             <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
               <h4 className="text-xl font-semibold text-green-600 dark:text-green-400">Data Validation Dashboard</h4>
               <p className="text-black">Built a dashboard using Power BI to validate data accuracy from automation testing, including interactive charts and reports.</p>
-              <a href="#" className="text-blue-600 dark:text-blue-400 hover:underline">GitHub ↗</a>
             </div>
             <div className="bg-white dark:bg-gray-800 p-4 rounded-lg shadow">
               <h4 className="text-xl font-semibold text-green-600 dark:text-green-400">MySQL Query Optimizer</h4>
               <p className="text-black">Developed a tool to optimize MySQL queries for better performance, with basic visualization of query execution times.</p>
-              <a href="#" className="text-blue-600 dark:text-blue-400 hover:underline">GitHub ↗</a>
             </div>
           </div>
         </section>
